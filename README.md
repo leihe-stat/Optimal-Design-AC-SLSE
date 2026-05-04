@@ -14,3 +14,8 @@ Tab5_ACeffmis_t1.R implements the calculation of AC-efficiency w.r.t. mis-specif
 
 Table 6 contains the calculation of AC-efficiency w.r.t. mis-specified parameters in the M-M model.
 
+# simulation
+Simulation_M-M.R produces the results of the M-M model in Section 5.1
+
+# Dependencies
+This project requires R (version ≥ 4.4.0) and the ICAOD package. https://cran.r-project.org/web/packages/ICAOD/index.html
