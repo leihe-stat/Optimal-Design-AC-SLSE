@@ -4,8 +4,13 @@ This project provides the R code required to reproduce the numerical results pre
 # figure
 Produces Figure 1 in the paper.
 
-# AC-optimal design and AC-efficiency
-Using the "locally" function in the ICAOD R package
+# AC-optimal design and AC-efficiency 
+
+Tab1_ACoptACeff_M-M.R implements the calculation of AC-optimal designs and AC-efficiencies for the Michaelis-Menten (M-M) model under different values of t_1.
 
 Table 3 contains the calculation of the AC-optimal design based on the SLSE for the four candidate models, as well as the AC-efficiency of the AC-optimal design based on the OLSE.
-Table 6 contains the calculation of AC-efficiency for the mis-specified parameters in the Michaelis-Menten model.
+
+Tab5_ACeffmis_t1.R implements the calculation of AC-efficiency for the mis-specified t_1 in the M-M model.
+
+Table 6 contains the calculation of AC-efficiency for the mis-specified parameters in the M-M model.
+
