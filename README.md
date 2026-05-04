@@ -1,5 +1,5 @@
 # Optimal-Design-AC-SLSE
-This project provides the R code required to reproduce the numerical results presented in the paper "Optimal Designs for Active-Controlled Dose-Response Models with Asymmetric Errors."
+This project provides the R code required to reproduce the numerical results presented in the paper "Optimal designs for active-controlled dose-response models with asymmetric errors."
 
 # figure
 Produces Figure 1 in the paper.
